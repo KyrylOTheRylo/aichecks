@@ -9,3 +9,4 @@ WIN_HEIGHT = 800
 
 
 BIRD_IMGS = [pygame.transform.scale2x]
+print(gay)
