@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"rotated_image"
+			],
+			[
+				"RO",
+				"ROT_VEL"
+			],
+			[
+				"x",
+				"scale2x"
+			],
+			[
+				"To",
+				"ToDoList"
+			],
+			[
+				"related",
+				"related_name"
+			],
+			[
+				"LOGIN",
+				"LOGIN_REDIRECT_URL"
+			],
+			[
+				"boots",
+				"bootstrap4"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"Us",
+				"User"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"f",
+				"form-group"
+			],
+			[
+				"POS",
+				"POST"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"in",
+				"input-group-prepend"
+			],
+			[
+				"input",
+				"input-group-prepend"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"on_",
+				"on_delete"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"HTT",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/python/newproj/.gitignore",
+		"/D/python/testsite/firstsite/register/templates/registration/login.html",
+		"/D/python/testsite/firstsite/quickstart/urls.py",
+		"/D/python/testsite/firstsite/register/views.py",
+		"/D/python/testsite/firstsite/register/templates/register/register.html",
+		"/D/python/testsite/firstsite/quickstart/models.py",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/view.html",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/base.html",
+		"/D/python/testsite/firstsite/quickstart/views.py",
+		"/D/python/testsite/firstsite/firstsite/settings.py",
+		"/D/python/testsite/firstsite/firstsite/urls.py",
+		"/D/python/testsite/firstsite/register/migrations/__init__.py",
+		"/D/python/testsite/firstsite/db.sqlite3",
+		"/D/python/testsite/firstsite/register/forms.py",
+		"/D/python/testsite/firstsite/quickstart/forms.py",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/create.html",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/home.html",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/list.html",
+		"/D/python/testsite/firstsite/register/apps.py",
+		"/D/python/testsite/firstsite/quickstart/apps.py",
+		"/D/python/testsite/firstsite/quickstart/templates/quickstart/register.html",
+		"/D/python/testsite/firstsite/quickstart/admin.py",
+		"/D/python/testsite/venv/Lib/site-packages/django/db/models/fields/related.py",
+		"/D/python/testsite/firstsite/quickstart/tests.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 50.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "newproj.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
