@@ -2,3 +2,5 @@
 /venv
 *.pyc
 newproj.sublime-workspace
+try.sublime-project
+try.sublime-workspace

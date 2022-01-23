@@ -4,7 +4,7 @@ import time
 import os 
 import random
 
-WEN_WIDTH = 600
+WIN_WIDTH = 600
 WIN_HEIGHT = 800
 
 
@@ -74,7 +74,7 @@ class Bird:
 			self.img_count = self.ANIMATION_TIME*2
 
 		rotated_image = pygame.transform.rotate(self.img, self.tilt)
-		new_tect = rotated_image.get_rect(center=self.img.get_rect(topleft =(self.x, self.y)).center)
+		new_rect = rotated_image.get_rect(center=self.img.get_rect(topleft =(self.x, self.y)).center)
 		win.blit(rotated_image, new_rect.topleft)
 
 	def get_mask(self):
@@ -82,13 +82,12 @@ class Bird:
 	
 def draw_window(win, bird):
 	win.blit(BG_IMG, (0,0))
-	win.draw(win)
+	bird.draw(win)
 	pygame.display.update()
-
 
 def main():
 	bird = Bird(200,200)
-
+	win = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 	run = True 
 	while run:
 		for event in pygame.event.get():
