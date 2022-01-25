@@ -41,7 +41,7 @@ class Bird:
     def move(self):
         self.tick_count +=1
 
-        d = self.vel*self.tick_count + 1.5*self.tick_count**2
+        d = self.vel*self.tick_count + 3.5*self.tick_count**2
 
         if d >= 16:
             d = 16
@@ -215,7 +215,7 @@ def main(genomes, config):
 
 
         for x, bird in enumerate(birds):
-            ge[x].fitness += 0.1
+            ge[x].fitness += 0.01
             bird.move()
             
             output = nets[birds.index(bird)].activate((bird.y, abs(bird.y - pipes[pipe_ind].height), abs(bird.y - pipes[pipe_ind].bottom)))
@@ -248,9 +248,9 @@ def main(genomes, config):
         if add_pipe:
             score += 1
             for g in ge:
-                g.fitness += 5
+                g.fitness += 1
             
-            pipes.append(Pipe(600))
+            pipes.append(Pipe(800))
 
         for r in rem:
             pipes.remove(r)
